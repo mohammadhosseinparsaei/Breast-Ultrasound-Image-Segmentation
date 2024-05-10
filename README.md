@@ -4,9 +4,10 @@ This project focuses on detecting and segmenting breast lesions using breast ult
 For training and testing the image segmentation model, a U-Net neural network architecture has been employed using the Keras library.
 ### Dataset
 In this project, three categories of image data have been utilized:
-Normal: Contains breast ultrasound images without any lesions.
-Benign: Contains breast ultrasound images with benign lesions.
-Malignant: Contains breast ultrasound images with malignant or cancerous lesions.
+
+- Normal: Contains breast ultrasound images without any lesions.
+- Benign: Contains breast ultrasound images with benign lesions.
+- Malignant: Contains breast ultrasound images with malignant or cancerous lesions.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset).
 ### Tools and Libraries Used
