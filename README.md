@@ -10,6 +10,9 @@ In this project, three categories of image data have been utilized:
 - Malignant: Contains breast ultrasound images with malignant or cancerous lesions.
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset).
+
+- Citation: Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. Dataset of breast ultrasound images. Data in Brief. 2020 Feb;28:104863. [DOI: 10.1016/j.dib.2019.104863]( https://doi.org/10.1016/j.dib.2019.104863)
+
 ### Tools and Libraries Used
 - Python 3.6.15
 - numpy 1.19.2
