@@ -48,7 +48,6 @@ images, masks = np.array(images), np.array(masks)
 x_train, x_test, y_train, y_test = train_test_split(images, masks, test_size=0.05, random_state=2)
 x_train, x_val, y_train, y_val = train_test_split(x_train, y_train, test_size=0.05, random_state=2)
 
-# Normalization
 x_train, x_val, x_test = x_train.astype('float32'), x_val.astype('float32'), x_test.astype('float32')
 y_train, y_val, y_test = y_train.astype('float32'), y_val.astype('float32'), y_test.astype('float32')
 
