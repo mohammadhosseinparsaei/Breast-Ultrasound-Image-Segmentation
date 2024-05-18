@@ -17,13 +17,14 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - Python 3.6.15
 - numpy 1.19.2
 - pandas 1.1.5
+- opencv 3.4.2
 - scikit-learn 0.24.2
 - keras 2.3.1
 - tqdm 4.64.1
 - matplotlib 3.3.4
 ### Model Evaluation with Random Images
 ![images](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/evaluation.png)
+### IoU & Dice coefficient Plot
+![IoU & Dice plot](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/iou_dice_plot.png)
 ### Model Architecture Plot
 ![Architecture](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/model_architecture_plot.png)
-### Accuracy & Loss Plot
-![Accuracy & Loss plot](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/accuracy_loss_plot.png)
