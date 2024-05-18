@@ -23,8 +23,6 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - matplotlib 3.3.4
 ### Model Evaluation with Random Images
 ![images](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/evaluation.png)
-### Loading the Model and Evaluation with Selected Images
-![selected](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/selected_images.png)
 ### Model Architecture Plot
 ![Architecture](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/model_architecture_plot.png)
 ### Accuracy & Loss Plot
