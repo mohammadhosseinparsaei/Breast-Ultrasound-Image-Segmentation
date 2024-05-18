@@ -1,13 +1,13 @@
 # Breast Ultrasound Image Segmentation
-This project focuses on detecting and segmenting breast lesions using breast ultrasound image data.
+This project focuses on segmenting breast lesions in ultrasound images.
 ### Approach
 For training and testing the image segmentation model, a U-Net neural network architecture has been employed using the Keras library.
 ### Dataset
-In this project, three categories of image data have been utilized:
+In this project, two categories of image data have been utilized:
 
-- Normal: Contains breast ultrasound images without any lesions.
 - Benign: Contains breast ultrasound images with benign lesions.
 - Malignant: Contains breast ultrasound images with malignant or cancerous lesions.
+
 ### Data Access
 The data is accessible and downloadable from [here](https://www.kaggle.com/datasets/aryashah2k/breast-ultrasound-images-dataset).
 
