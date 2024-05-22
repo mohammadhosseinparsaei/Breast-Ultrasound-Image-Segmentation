@@ -22,9 +22,12 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - keras 2.3.1
 - tqdm 4.64.1
 - matplotlib 3.3.4
+
 ### Model Evaluation with Random Images
-![images](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/evaluation.png)
+<img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/evaluation.png" alt="images" width="400"/>
+
 ### IoU & Dice coefficient Plot
-![IoU & Dice plot](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/iou_dice_plot.png)
+<img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/iou_dice_plot.png" alt="IoU & Dice plot" width="400"/>
+
 ### Model Architecture Plot
-![Architecture](https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/model_architecture_plot.png)
+<img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/model_architecture_plot.png" alt="Architecture" width="400"/>
