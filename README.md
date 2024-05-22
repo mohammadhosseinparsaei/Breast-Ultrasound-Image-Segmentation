@@ -1,4 +1,12 @@
-# Breast Ultrasound Image Segmentation
+<div class="container">
+    <div class="title-container">
+        <h1>Breast Ultrasound Image Segmentation</h1>
+    </div>
+    <div class="image-container">
+        <img src="" alt="Blood Cell Sample" width="200" align="right">
+    </div>
+</div>
+
 This project focuses on segmenting breast lesions in ultrasound images.
 ### Approach
 For training and testing the image segmentation model, a U-Net neural network architecture has been employed using the Keras library.
