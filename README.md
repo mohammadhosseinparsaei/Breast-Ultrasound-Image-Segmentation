@@ -24,10 +24,10 @@ The data is accessible and downloadable from [here](https://www.kaggle.com/datas
 - matplotlib 3.3.4
 
 ### Model Evaluation with Random Images
-<img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/evaluation.png" alt="images" width="400"/>
+<img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/evaluation.png" alt="images" width="600"/>
 
 ### IoU & Dice coefficient Plot
-<img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/iou_dice_plot.png" alt="IoU & Dice plot" width="400"/>
+<img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/iou_dice_plot.png" alt="IoU & Dice plot" width="600"/>
 
 ### Model Architecture Plot
 <img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/model_architecture_plot.png" alt="Architecture" width="400"/>
