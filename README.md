@@ -3,7 +3,7 @@
         <h1>Breast Ultrasound Image Segmentation</h1>
     </div>
     <div class="image-container">
-        <img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/sample%20image.png" alt="Blood Cell Sample" width="400" align="right">
+        <img src="https://github.com/mohammadhosseinparsaei/Breast-Ultrasound-Image-Segmentation/blob/main/sample%20image.png" alt="Blood Cell Sample" width="300" align="right">
     </div>
 </div>
 
